@@ -1,7 +1,7 @@
 {
   "packageRules":[
     {
-      "matchCurrentAge": "< 2 years",
+      "matchPackageNames": ["nodejs/node"],
       "groupName": "twotwozafour"
     }
   ]
