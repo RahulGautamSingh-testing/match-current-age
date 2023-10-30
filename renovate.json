@@ -6,10 +6,9 @@
     },
      {
         "sourceUrlPrefixes": [
-          "https://github.com/facebook/react"
+          "https://github.com/nfarina/xmldoc"
         ],
-        "allowedVersions": "<6.0",
-        "recreateClosed": false
+        "allowedVersions": "<1.3.0"
       }
   ]     
 }
