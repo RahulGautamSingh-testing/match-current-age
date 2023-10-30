@@ -2,7 +2,11 @@
   "packageRules":[
     {
       "matchCurrentAge": "< 2 years",
-      "groupName": "twotwozafour"
+      "groupName": "latest"
+    },
+     {
+      "matchCurrentAge": "> 2 years",
+      "groupName": "old"
     },
      {
         "sourceUrlPrefixes": [
