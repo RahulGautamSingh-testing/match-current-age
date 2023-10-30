@@ -1,12 +1,12 @@
 {
   "packageRules":[
      {
-      "matchCurrentAge": "> 2 years",
-      "groupName": "old"
-    },
-     {
       "matchCurrentAge": "< 2 years",
       "groupName": "latest"
+    },
+     {
+      "matchCurrentAge": "<1month",
+      "groupName": "extremely-latest"
     },
      {
         "sourceUrlPrefixes": [
