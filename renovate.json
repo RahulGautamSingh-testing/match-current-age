@@ -3,6 +3,13 @@
     {
       "matchCurrentAge": "< 2 years",
       "groupName": "twotwozafour"
-    }
-  ]
+    },
+     {
+        "sourceUrlPrefixes": [
+          "https://github.com/angular/angular"
+        ],
+        "allowedVersions": "<6.0",
+        "recreateClosed": false
+      }
+  ]     
 }
