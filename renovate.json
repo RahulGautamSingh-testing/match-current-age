@@ -6,7 +6,7 @@
     },
      {
         "sourceUrlPrefixes": [
-          "https://github.com/angular/angular"
+          "https://github.com/facebook/react"
         ],
         "allowedVersions": "<6.0",
         "recreateClosed": false
